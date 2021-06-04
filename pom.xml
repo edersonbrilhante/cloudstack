@@ -128,7 +128,7 @@
         <cs.groovy.version>2.4.12</cs.groovy.version>
         <cs.gson.version>1.7.2</cs.gson.version>
         <cs.guava.version>23.6-jre</cs.guava.version>
-        <cs.httpclient.version>4.5.4</cs.httpclient.version>
+        <cs.httpclient.version>4.5.13</cs.httpclient.version>
         <cs.httpcore.version>4.4.8</cs.httpcore.version>
         <cs.jackson.version>2.9.2</cs.jackson.version>
         <cs.jasypt.version>1.9.2</cs.jasypt.version>
